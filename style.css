@@ -22,7 +22,7 @@
       font-family: "Tilt Neon", sans-serif;
        font-size:40px; 
        color:transparent; 
-       -webkit-text-stroke-width:0.1px;
+       -webkit-text-stroke-width:1px;
        -webkit-text-stroke-color: white;
    }
 
