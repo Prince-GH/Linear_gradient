@@ -1,2 +1,11 @@
-# Linear_gradient
-🚀 Welcome to the Random Linear Gradient Generator project! This web application is designed to simplify the process of creating unique linear gradients for web design projects. 
+## Linear Gradient
+- 👆`Start` the buttom.
+- 🔍Check which gradient you like most.
+- 👆`Stop` and 📃`copy`.
+---
+![Img1](IMG1.png)
+![Img2](IMG2.png)
+
+---
+## Created By
+- Prince-GH

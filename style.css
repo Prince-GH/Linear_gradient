@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        color:white;
+    }
+
+   body{
+    width: 100%;
+    height: 100vh;
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background:linear-gradient(-75deg,#2d1b3d,rgba(45, 12, 65, 0.849),#5a1d94ef);
+    gap: 10px;
+   }
+   h3{
+      font-family: "Tilt Neon", sans-serif;
+       font-size:40px; 
+       color:transparent; 
+       -webkit-text-stroke-width:0.1px;
+       -webkit-text-stroke-color: white;
+   }
+
+   button{
+    width: 70px;
+    height: 40px;
+    border:1px solid white;
+    background: transparent;
+    outline: none;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: 20px;
+    font-weight:lighter;
+    letter-spacing: 1px;
+    border-radius:8px;
+   }
+   button:hover{
+    background:linear-gradient(-45deg,#332044,rgb(45, 12, 65),#5a1d94);
+    font-size: 21px;
+   }
+   .text{
+    width: 300px;
+    height:111px;
+    font-size: 15px;
+    overflow-wrap: break-word;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin-left:10px ;
+    margin-right: 10px;
+    font-family: "Tilt Neon", sans-serif;
+}
+.text:hover{
+    cursor: pointer;
+    font-size:16px;
+   }   
+.itme{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
